@@ -1,0 +1,7 @@
+{
+  "name": "md-preview",
+  "version": "0.1.0",
+  "description": "Preview a markdown file in a pane: /md-preview lists the markdown files edited in this session, and Claude can show one itself.",
+  "author": { "name": "Daniel Mertens" },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "claude-mod",
+  "owner": { "name": "Daniel Mertens" },
+  "description": "Mods for Claude Code, starting with md-preview.",
+  "plugins": [{ "name": "md-preview", "source": "./plugins/md-preview" }]
+}
