@@ -6,6 +6,16 @@ Mods for Claude Code. Each one is a plugin in its own folder under `plugins/`.
 | --- | --- |
 | [md-preview](plugins/md-preview/README.md) | Previews markdown files in a pane, from a command or by Claude's own choice |
 
+## Preview
+
+md-preview in the terminal:
+
+![md-preview in the terminal](images/md-preview-terminal.png)
+
+md-preview in the Claude desktop app:
+
+![md-preview in the desktop app](images/md-preview-desktop.png)
+
 ## Install a mod
 
 In a terminal Claude Code session (2.1.275 or later):
